@@ -11,10 +11,20 @@ The app has the following functionalities:
 The main functionality of the app is defined in `main/wear/src/main/java/CSE218/MainActivity.java`
 <br><br><br>
 The app has the following screens:<br><br><br>
-1. Initial screen <br>
+
+
+
+<b>1) Initial screen</b><br><br>
 ![initial](Initial.png)<br><br>
-<br>2. In progress screen <br>
+
+<b>2) In progress screen</b><br><br>
 ![progress](InProgressScreen.png)<br><br>
-<br>3. Result screen <br>
+
+<br><b>3)Result screen</b><br><br>
 ![result](ResultScreen.png)
+
+
+<br><br><br>
+Updating the location to current area of residence on the emulator, we get:<br><br>
+![locationchange](EmulatorChangeLocation.png)
 
