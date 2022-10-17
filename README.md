@@ -15,13 +15,13 @@ The app has the following screens:<br><br><br>
 
 
 <b>1) Initial screen</b><br><br>
-![initial](Initial.png)<br><br>
+![initial](output_images/Initial.png)<br><br>
 
 <b>2) In progress screen</b><br><br>
-![progress](InProgressScreen.png)<br><br>
+![progress](output_images/InProgressScreen.png)<br><br>
 
 <br><b>3) Result screen</b><br><br>
-![result](ResultScreen.png)
+![result](output_images/ResultScreen.png)
 
 
 <br><br><br>
@@ -29,5 +29,5 @@ Updating the location to current area of residence on the emulator, we get:<br><
 ![locationchange](EmulatorChangeLocation.png)
 <br><br><br>
 <b>Output capture</b><br><br>
-![output](Trial1.gif)
+![output](output_images/Trial1.gif)
 
