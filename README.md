@@ -3,7 +3,7 @@
 ### Authors: Balaji Muthazhagan (UCSD), Shikha Dixit (UCSD)
 ___
 The app has the following functionalities:
-* Shows current latitude and longitude
+* Shows current latitude and longitude on screen, altitude is printed in logs
 * Shows current Wifi strength and SSID
 
 
