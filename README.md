@@ -26,7 +26,7 @@ The app has the following screens:<br><br><br>
 
 <br><br><br>
 Updating the location to current area of residence on the emulator, we get:<br><br>
-![locationchange](EmulatorChangeLocation.png)
+![locationchange](output_images/EmulatorChangeLocation.png)
 <br><br><br>
 <b>Output capture</b><br><br>
 ![output](output_images/Trial1.gif)
