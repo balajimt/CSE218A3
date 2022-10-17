@@ -90,6 +90,8 @@ public class MainActivity extends WearableActivity {
                             int latestlocIndex = locationResult.getLocations().size() - 1;
                             double lati = locationResult.getLocations().get(latestlocIndex).getLatitude();
                             double longi = locationResult.getLocations().get(latestlocIndex).getLongitude();
+							double alti = locationResult.getLocations().get(latestlocIndex).getAltitude();
+                            Log.v("altitude", ""+ alti);
                             Log.v("location", String.format("Latitude : %s\n Longitude: %s", lati, longi));
 
                             TextView mTextView = (TextView) findViewById(R.id.text);
